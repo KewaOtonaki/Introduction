@@ -1,0 +1,14 @@
+h2 {
+    font-size:2em;
+    padding-left: 20px;
+    background-color : #DDDDDD;
+    border-left: solid 25px #888888;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+footer{
+    text-align: center;
+}
